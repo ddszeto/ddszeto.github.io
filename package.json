@@ -1,0 +1,23 @@
+{
+  "name": "ddszeto.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddszeto/ddszeto.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddszeto/ddszeto.github.io/issues"
+  },
+  "homepage": "https://github.com/ddszeto/ddszeto.github.io#readme",
+  "dependencies": {
+    "popper.js": "^1.14.1",
+    "startbootstrap-resume": "^4.0.0"
+  }
+}
